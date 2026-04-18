@@ -16,13 +16,13 @@ export const CheckoutOptionsModal = ({ isOpen, onClose, items, onExport }: Check
   const handleEmailDirect = () => {
     const email = "direccionbpsj@gmail.com";
     const subject = "Solicitud de Presupuesto - Mi Librería";
-    
+
     let body = "Hola, me gustaría solicitar un presupuesto para los siguientes libros:\n\n";
     items.forEach(item => {
       body += `- ${item.cantidad}x ${item.titulo} (${item.autor}) - [${item.editorial}]\n`;
     });
     body += "\nEspero su respuesta. Gracias.";
-    
+
     const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoUrl;
     onClose();
@@ -81,8 +81,8 @@ export const CheckoutOptionsModal = ({ isOpen, onClose, items, onExport }: Check
                 </button>
 
                 <div className="relative">
-                    <div className="absolute inset-x-0 top-1/2 -translate-y-1/2 border-t border-white/5" />
-                    <span className="relative z-10 mx-auto px-4 bg-background/0 text-[10px] uppercase tracking-widest text-foreground/20 font-bold flex justify-center">O descargar archivo</span>
+                  <div className="absolute inset-x-0 top-1/2 -translate-y-1/2 border-t border-white/5" />
+                  <span className="relative z-10 mx-auto px-4 bg-background/0 text-[10px] uppercase tracking-widest text-foreground/20 font-bold flex justify-center">O descargar archivo</span>
                 </div>
 
                 <div className="grid grid-cols-2 gap-4">

@@ -26,7 +26,7 @@ export default function CatalogPage() {
   const [isCheckoutOptionsOpen, setIsCheckoutOptionsOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 12;
-  
+
   const {
     cart,
     addToCart,
@@ -42,7 +42,7 @@ export default function CatalogPage() {
 
   const filteredBooks = useMemo(() => {
     const term = searchTerm.toLowerCase();
-    return books.filter(book => 
+    return books.filter(book =>
       book.titulo.toLowerCase().includes(term) ||
       book.autor.toLowerCase().includes(term) ||
       book.descripcion.toLowerCase().includes(term)
@@ -84,17 +84,17 @@ export default function CatalogPage() {
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <div className="relative w-12 h-12 overflow-hidden rounded-xl">
-              <Image 
-                src="/logo.png" 
-                alt="Logo Librería Reyna Domínguez" 
-                fill 
+              <Image
+                src="/logo.png"
+                alt="Logo Librería Reyna Domínguez"
+                fill
                 priority
                 sizes="48px"
                 className="object-contain"
               />
             </div>
             <h1 className="text-xl md:text-2xl font-black tracking-tight hidden sm:block">
-                Librería <span className="text-apple-blue font-black">Reyna Domínguez</span>
+              Librería <span className="text-apple-blue font-black">Reyna Domínguez</span>
             </h1>
           </div>
 
@@ -112,15 +112,15 @@ export default function CatalogPage() {
           <div className="flex items-center gap-3">
             <ThemeToggle />
             <button
-                onClick={() => setIsSidebarOpen(true)}
-                className="relative p-3 glass rounded-2xl hover:bg-apple-blue/10 hover:border-apple-blue/30 transition-all group"
+              onClick={() => setIsSidebarOpen(true)}
+              className="relative p-3 glass rounded-2xl hover:bg-apple-blue/10 hover:border-apple-blue/30 transition-all group"
             >
-                <ShoppingBag size={24} className="group-hover:scale-110 transition-transform text-apple-blue" />
-                {cartCount > 0 && (
+              <ShoppingBag size={24} className="group-hover:scale-110 transition-transform text-apple-blue" />
+              {cartCount > 0 && (
                 <span className="absolute -top-2 -right-2 w-6 h-6 bg-apple-blue text-white text-[10px] font-bold flex items-center justify-center rounded-full shadow-lg border-2 border-background">
-                    {cartCount}
+                  {cartCount}
                 </span>
-                )}
+              )}
             </button>
           </div>
         </div>
@@ -132,7 +132,7 @@ export default function CatalogPage() {
             <h2 className="text-4xl md:text-5xl font-black tracking-tighter">Explorar Catálogo</h2>
             <p className="text-lg text-foreground/60">Descubre historias increíbles entre nuestros {books.length}+ títulos.</p>
           </div>
-          
+
           <div className="flex items-center gap-4 text-sm font-medium">
             <span className="px-4 py-2 bg-apple-blue/10 text-apple-blue rounded-full">
               {filteredBooks.length} resultados
@@ -142,22 +142,22 @@ export default function CatalogPage() {
 
         {filteredBooks.length > 0 ? (
           <>
-            <motion.div 
+            <motion.div
               layout
               className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8"
             >
               <AnimatePresence mode='popLayout'>
                 {paginatedBooks.map((book) => (
-                  <LibroCard 
-                    key={book.id} 
-                    libro={book} 
-                    onAdd={addToCart} 
-                    onShowDetails={handleShowDetails} 
+                  <LibroCard
+                    key={book.id}
+                    libro={book}
+                    onAdd={addToCart}
+                    onShowDetails={handleShowDetails}
                   />
                 ))}
               </AnimatePresence>
             </motion.div>
-            
+
             {/* Pagination Controls */}
             {totalPages > 1 && (
               <div className="mt-16 flex flex-col items-center gap-6">
@@ -169,14 +169,14 @@ export default function CatalogPage() {
                   >
                     <ArrowRight className="rotate-180" size={20} />
                   </button>
-                  
+
                   <div className="flex items-center px-4 gap-1">
                     {[...Array(totalPages)].map((_, i) => {
                       const page = i + 1;
                       // Only show first, last, and pages around current
                       if (
-                        page === 1 || 
-                        page === totalPages || 
+                        page === 1 ||
+                        page === totalPages ||
                         (page >= currentPage - 1 && page <= currentPage + 1)
                       ) {
                         return (
@@ -185,8 +185,8 @@ export default function CatalogPage() {
                             onClick={() => setCurrentPage(page)}
                             className={cn(
                               "w-10 h-10 rounded-full text-sm font-bold transition-all",
-                              currentPage === page 
-                                ? "bg-apple-blue text-white shadow-lg shadow-apple-blue/30 scale-110" 
+                              currentPage === page
+                                ? "bg-apple-blue text-white shadow-lg shadow-apple-blue/30 scale-110"
                                 : "hover:bg-black/5 dark:hover:bg-white/5"
                             )}
                           >
@@ -226,22 +226,35 @@ export default function CatalogPage() {
         )}
       </main>
 
+      <footer className="border-t border-white/10 py-12 px-6 mt-12">
+        <div className="max-w-7xl mx-auto flex flex-col items-center gap-4 text-center">
+          <div className="space-y-2">
+            <p className="text-sm text-foreground/50 font-medium">
+              © 2026 Antonio David Tejada Villalon. Copyright. Todos los derechos reservados.
+            </p>
+            <p className="text-xs text-foreground/40">
+              Este sitio ha sido desarrollado por <span className="font-semibold text-foreground/60">Antonio David Tejada Villalon</span> y powered by <span className="text-apple-blue font-semibold">Google - Gemini AI - Antigravity</span>
+            </p>
+          </div>
+        </div>
+      </footer>
+
       {/* Modals & Sidebar */}
-      <BookDetailModal 
-        libro={selectedBook} 
-        isOpen={isDetailOpen} 
-        onClose={() => setIsDetailOpen(false)} 
+      <BookDetailModal
+        libro={selectedBook}
+        isOpen={isDetailOpen}
+        onClose={() => setIsDetailOpen(false)}
       />
-      
-      <CartSidebar 
-        items={cart} 
-        isOpen={isSidebarOpen} 
-        onClose={() => setIsSidebarOpen(false)} 
-        onRemove={removeFromCart} 
+
+      <CartSidebar
+        items={cart}
+        isOpen={isSidebarOpen}
+        onClose={() => setIsSidebarOpen(false)}
+        onRemove={removeFromCart}
         onUpdateQuantity={updateQuantity}
         onCheckout={() => {
-            setIsSidebarOpen(false);
-            setIsCheckoutOptionsOpen(true);
+          setIsSidebarOpen(false);
+          setIsCheckoutOptionsOpen(true);
         }}
       />
 
@@ -252,15 +265,15 @@ export default function CatalogPage() {
         onExport={(type) => handleExport('Solicitud_Presupuesto', type)}
       />
 
-      <HelpModal 
-        isOpen={isHelpOpen} 
-        onClose={() => setIsHelpOpen(false)} 
+      <HelpModal
+        isOpen={isHelpOpen}
+        onClose={() => setIsHelpOpen(false)}
       />
 
-      <ExportModal 
-        isOpen={isExportOpen} 
-        onClose={() => setIsExportOpen(false)} 
-        onExport={handleExport} 
+      <ExportModal
+        isOpen={isExportOpen}
+        onClose={() => setIsExportOpen(false)}
+        onExport={handleExport}
       />
 
       {/* Floating Help Button */}
