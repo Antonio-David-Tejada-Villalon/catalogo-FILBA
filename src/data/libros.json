@@ -1,0 +1,2000 @@
+[
+  {
+    "id": 1,
+    "titulo": "Recortes de utopías.",
+    "autor": "Cardó, Raúl",
+    "editorial": "Abdulah",
+    "descripcion": "Ensayo narrativo que reflexiona sobre la fragmentación de ideales y su resonancia en la realidad contemporánea.",
+    "imagen_url": "https://i.ibb.co/4CTSrCy/Recortes-de-utop-as-Card-Ra-l-Abdulah.jpg",
+    "precio": 0
+  },
+  {
+    "id": 2,
+    "titulo": "Cenizas y coincidencias",
+    "autor": "Cardó, Raúl",
+    "editorial": "Abdulah",
+    "descripcion": "Obra literaria que explora el entrelazamiento del destino, la memoria y los cruces impredecibles de la vida.",
+    "imagen_url": "https://i.ibb.co/JWQD32R4/Cenizas-y-coincidencias-Card-Ra-l-Abdulah.jpg",
+    "precio": 0
+  },
+  {
+    "id": 3,
+    "titulo": "La invasión de los pájaros",
+    "autor": "Cardó, Raúl",
+    "editorial": "El Autor",
+    "descripcion": "Narrativa de ficción que utiliza la naturaleza como metáfora de transformaciones sociales y psicológicas.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 4,
+    "titulo": "Huerto de porcelana",
+    "autor": "Cardo, Raul",
+    "editorial": "El Autor",
+    "descripcion": "Relato intimista que aborda la fragilidad humana y la belleza efímera a través de una prosa cuidada.",
+    "imagen_url": "https://i.ibb.co/rGwvgWzS/Huerto-de-porcelana-Card-Ra-l-El-autor.jpg",
+    "precio": 0
+  },
+  {
+    "id": 5,
+    "titulo": "Elusivas Mariposas",
+    "autor": "Cardó, Raúl",
+    "editorial": "El Autor",
+    "descripcion": "Colección poética que captura lo efímero y lo intangible mediante imágenes líricas y reflexivas.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 6,
+    "titulo": "Arroyos púrpuras",
+    "autor": "Cardó, Raúl",
+    "editorial": "Abdulah",
+    "descripcion": "Narrativa de tono simbólico que recorre paisajes interiores y exteriores con una mirada melancólica y profunda.",
+    "imagen_url": "https://i.ibb.co/8Dt6bQC5/ARROYOS-P-RPURAS-RA-L-CARD.jpg",
+    "precio": 0
+  },
+  {
+    "id": 7,
+    "titulo": "Buscando un nombre para Emilia",
+    "autor": "Cardó, Raúl",
+    "editorial": "Abdulah",
+    "descripcion": "Ficción contemporánea que indaga en la identidad, la herencia familiar y la búsqueda de pertenencia.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 8,
+    "titulo": "Las manchasde las voces",
+    "autor": "Cardó, Raúl",
+    "editorial": "El Autor",
+    "descripcion": "Obra que examina la huella del lenguaje y la memoria a través de fragmentos narrativos y voces superpuestas.",
+    "imagen_url": "https://i.ibb.co/jk88KJKg/Las-manchas-de-las-voces-Card-Ra-l-El-autor.jpg",
+    "precio": 0
+  },
+  {
+    "id": 9,
+    "titulo": "Linea 20.",
+    "autor": "Cabello, Melisa Laura.",
+    "editorial": "Abdulah",
+    "descripcion": "Relato urbano que retrata dinámicas cotidianas y microhistorias desde una perspectiva observacional y crítica.",
+    "imagen_url": "https://i.ibb.co/4Z8TwNbH/LINEA-20-MELISA-CABELLO-ABDULAH.jpg",
+    "precio": 0
+  },
+  {
+    "id": 10,
+    "titulo": "Lo que la luz no toca",
+    "autor": "Cabello, Melisa Laura.",
+    "editorial": "Clara Beter",
+    "descripcion": "Narrativa introspectiva que explora los rincones ocultos de las emociones y los silencios compartidos.",
+    "imagen_url": "https://i.ibb.co/8LZ5w5dy/Lo-que-la-luz-no-toca-Cabello-Melisa-Clara-Beter.jpg",
+    "precio": 0
+  },
+  {
+    "id": 11,
+    "titulo": "El hijo sapo.",
+    "autor": "Cabello, Melisa",
+    "editorial": "Caburé",
+    "descripcion": "Cuento contemporáneo que mezcla realismo y elementos simbólicos para reflexionar sobre la condición humana.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 12,
+    "titulo": "Un jardín en el desierto",
+    "autor": "Cabello, Melisa",
+    "editorial": "Halley",
+    "descripcion": "Ficción que aborda la resiliencia, la esperanza y la transformación en contextos de aridez física o emocional.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 13,
+    "titulo": "Con firma de escritores v. I : antología sanjuaninos",
+    "autor": "Arce, Silvia...[et.al]",
+    "editorial": "Abdulah",
+    "descripcion": "Recopilación literaria que reúne voces narrativas y poéticas representativas del circuito cultural sanjuanino.",
+    "imagen_url": "https://i.ibb.co/qLshkKJT/Con-firma-de-Escritores-Antolog-a-Sanjuanina-Avila-Luis.jpg",
+    "precio": 0
+  },
+  {
+    "id": 14,
+    "titulo": "Con firma de escritores v. II: antología sanjuaninos",
+    "autor": "Ávila, Luis...[et.al.]",
+    "editorial": "Abdulah",
+    "descripcion": "Segunda entrega antológica que consolida la diversidad temática y estilística de autores locales contemporáneos.",
+    "imagen_url": "https://i.ibb.co/1tvcGq0V/Con-firma-de-escritores-Antolog-a-sanjuanina-Abdulah.jpg",
+    "precio": 0
+  },
+  {
+    "id": 15,
+    "titulo": "La organización",
+    "autor": "Rodríguez Romero, Matias German",
+    "editorial": "Abdulah",
+    "descripcion": "Análisis narrativo que examina estructuras de poder, dinámicas sociales y la complejidad institucional.",
+    "imagen_url": "https://i.ibb.co/SXDcc1kL/La-organizaci-n-Rodriguez-R-M-German-Abdulah.jpg",
+    "precio": 0
+  },
+  {
+    "id": 16,
+    "titulo": "El cuaderno negro",
+    "autor": "Rodríguez Romero, Matias German",
+    "editorial": "El Autor",
+    "descripcion": "Relato de suspense o memoria íntima que utiliza la escritura como vehículo de revelación y catarsis.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 17,
+    "titulo": "Club sportivo Rivadavia: cien años de historias",
+    "autor": "Rodríguez Romero, Matias German",
+    "editorial": "El Abdulah",
+    "descripcion": "Crónica histórica que documenta la trayectoria, hitos y legado social de una institución deportiva centenaria.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 18,
+    "titulo": "La lógica de los viajes : Caos, miradas y espacio para un análisis romántico del turismo contemporáneo",
+    "autor": "Navarro Cisella, Erica.",
+    "editorial": "Prometeo",
+    "descripcion": "Ensayo académico que cruza sociología, geografía y teoría cultural para estudiar el turismo moderno.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 19,
+    "titulo": "Mariposa de bar.",
+    "autor": "Palmés, Ana",
+    "editorial": "El Abdulah",
+    "descripcion": "Narrativa de realismo cotidiano que retrata encuentros efímeros y atmósferas urbanas con sensibilidad poética.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 20,
+    "titulo": "La búsqueda",
+    "autor": "Pin, Nora",
+    "editorial": "El Autor",
+    "descripcion": "Ficción introspectiva que sigue un itinerario emocional e intelectual en pos de respuestas personales o existenciales.",
+    "imagen_url": "https://i.ibb.co/ZRkxh4bL/La-b-squeda-Pin-Nora-el-autor.jpg",
+    "precio": 0
+  },
+  {
+    "id": 21,
+    "titulo": "La chopera : breves historias de desarraigos desde sajonia en el 1700 a la Argentina actual",
+    "autor": "Herrmann, Gerardo",
+    "editorial": "Dunken",
+    "descripcion": "Relato histórico-familiar que traza la migración, la adaptación y la memoria colectiva a través de generaciones.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 22,
+    "titulo": "Aromas",
+    "autor": "Labaronnie, Graciela",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Obra literaria que utiliza lo sensorial como hilo conductor para explorar recuerdos, identidad y pertenencia.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 23,
+    "titulo": "Cuando todos los pobres tengan turno en la jugada: poesía social.",
+    "autor": "Domínguez, Reyna María",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Antología poética de denuncia y solidaridad que visibiliza desigualdades con voz firme y ritmo comprometido.",
+    "imagen_url": "https://i.ibb.co/V0WXJfRg/Cuando-todos-los-pobres-tengan-turno-en-la-jugada-Reyna-Dom-nguez-DOCK.jpg",
+    "precio": 0
+  },
+  {
+    "id": 24,
+    "titulo": "Anotaciones",
+    "autor": "Domínguez, Reyna María",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Colección de versos breves y reflexivos que capturan instantes de lucidez, duda y observación social.",
+    "imagen_url": "https://i.ibb.co/rRzDJKzp/Anotaciones-Reyna-Dominguez-DOCK.jpg",
+    "precio": 0
+  },
+  {
+    "id": 25,
+    "titulo": "El resto es poesía: biografia de Reyna Domínguez",
+    "autor": "Podda, José Antonio",
+    "editorial": "Cámara de Diputados San Juan",
+    "descripcion": "Perfil biográfico y literario que reconstruye la trayectoria, influencias y legado de la autora.",
+    "imagen_url": "https://i.ibb.co/0VvXdK1F/El-resto-es-poes-a-Biograf-a-de-Reyna-Dom-nguez-Podda-Jos-Antonio-UNSJ.jpg",
+    "precio": 0
+  },
+  {
+    "id": 26,
+    "titulo": "Lo luz en la pared",
+    "autor": "Domínguez, Reyna María",
+    "editorial": "Elandamio",
+    "descripcion": "Poesía contemplativa que trabaja con la imagen, la sombra y lo cotidiano como espacios de revelación íntima.",
+    "imagen_url": "https://i.ibb.co/twwwSbks/Reina-Dominguez-lo-luz-en-la-pared-elandamio.jpg",
+    "precio": 0
+  },
+  {
+    "id": 27,
+    "titulo": "Romanza de lo vivido",
+    "autor": "Domínguez, Reyna María",
+    "editorial": "La Mariposa y la Iguana",
+    "descripcion": "Relato lírico-narrativo que entrelaza memoria personal y colectiva en una cadencia melódica y evocadora.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 28,
+    "titulo": "Placa madre",
+    "autor": "Azcona, Luz",
+    "editorial": "Caburé",
+    "descripcion": "Ficción o ensayo que utiliza la tecnología o la biología como metáfora de origen, conexión y soporte vital.",
+    "imagen_url": "https://i.ibb.co/jvZ6YXgv/Placa-madre-Luz-Azcona.jpg",
+    "precio": 0
+  },
+  {
+    "id": 29,
+    "titulo": "Tras el oro de osorio",
+    "autor": "Diaz Ariza, Antonio",
+    "editorial": "Plaza",
+    "descripcion": "Crónica o narrativa histórica que indaga en búsquedas de riqueza, leyendas locales y sus consecuencias humanas.",
+    "imagen_url": "https://i.ibb.co/39nbMJwG/Tras-el-oro-de-Osorio-Ariza-Antonio-Diaz.jpg",
+    "precio": 0
+  },
+  {
+    "id": 30,
+    "titulo": "Zapatos nuevos, vida nueva : 12 pasos seguros para alcanzar tu proposito y felicidad",
+    "autor": "Sández, Analía",
+    "editorial": "La Autora",
+    "descripcion": "Guía de desarrollo personal que propone un método estructurado para la transformación de hábitos y mentalidad.",
+    "imagen_url": "https://i.ibb.co/nqqcmMSt/Zapatos-nuevos-vida-nueva-Anal-a-S-nchez.jpg",
+    "precio": 0
+  },
+  {
+    "id": 31,
+    "titulo": "Luna buena : Huaco, su gente y Buenaventura Luna",
+    "autor": "Andrada, Guillermo Raúl",
+    "editorial": "El Abdulah",
+    "descripcion": "Estudio etnográfico y cultural que rescata tradiciones, figuras emblemáticas y la identidad de una comunidad cuyana.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 32,
+    "titulo": "Catálogo Barrer",
+    "autor": "Amigo, Roberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Publicación museográfica que documenta y contextualiza una muestra o colección de arte con rigor histórico.",
+    "imagen_url": "https://i.ibb.co/fdnTrXHQ/Barrer-MPBA-Franklin-Rawson.jpg",
+    "precio": 0
+  },
+  {
+    "id": 33,
+    "titulo": "Catálogo. No soy un Clown",
+    "autor": "Amigo, Roberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Registro expositivo que analiza la obra de un artista desde la ironía, la performance y la identidad escénica.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 34,
+    "titulo": "Catálogo. Hasper : antológica",
+    "autor": "Amigo, Roberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Compilación crítica que recorre la trayectoria plástica de Hasper, destacando su impacto en el arte regional.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 35,
+    "titulo": "3° Bienal nacional de dibujo. San Juan 2024",
+    "autor": "",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Catálogo institucional que reúne obras, artistas y curadurías de la edición más reciente del certamen nacional.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 36,
+    "titulo": "Catálogo 20:52: el terremoto de San Juan, 1944",
+    "autor": "Amigo, Roberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Documento visual e histórico que aborda el sismo desde la memoria, la reconstrucción y el testimonio artístico.",
+    "imagen_url": "https://i.ibb.co/b5ZQFT5T/20-52-El-terremoto-de-San-Juan-1944-Roberto-Amigo-MPBA-FR.jpg",
+    "precio": 0
+  },
+  {
+    "id": 37,
+    "titulo": "La Tradición del Grabado. Del Norte de Europa a Cuyo.",
+    "autor": "Maulhardt, Astrid",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Ensayo académico que traza la evolución técnica y estética del grabado en dos contextos geográficos distantes.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 38,
+    "titulo": "El cruce de los Andes : exposición conmemorativa del Bicentenario  San Juan",
+    "autor": "Amigo, Roberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Catálogo expositivo que vincula historia patriótica, arte y territorio en una mirada conmemorativa.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 39,
+    "titulo": "Catalogo. Las interpretaciones de Antonio Bermúdez Franco: variaciones sobre la caricatura en dibujo y pintura",
+    "autor": "Peñarfort, Eduardo",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Estudio crítico que analiza la sátira gráfica y la evolución estilística del artista.",
+    "imagen_url": "https://i.ibb.co/hx4kwG2w/Catalogo-Las-interpretaciones-de-Antonio-Berm-dez-Franco.jpg",
+    "precio": 0
+  },
+  {
+    "id": 40,
+    "titulo": "Catálogo. Síntomas y desplazamientos: arte contemporáneo en San Juan",
+    "autor": "Sánchez Maratta, Alberto",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Publicación que explora tendencias, rupturas y contextos del arte actual en la región.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 41,
+    "titulo": "Catálogo. Luis Felipe Noé : Mirada Prospectiva",
+    "autor": "Ivanchevich, Cecilia",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Registro expositivo que examina la proyección y vigencia de la obra del maestro argentino.",
+    "imagen_url": "https://i.ibb.co/RkcYdmTv/Cat-logo-Luis-Felipe-No-Mirada-Prospectiva-MPBA-FR.jpg",
+    "precio": 0
+  },
+  {
+    "id": 42,
+    "titulo": "Catálogo. Antesala de un sueño : Carlos de la Mota",
+    "autor": "Mota, Carlos de la",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Catálogo que introduce la poética visual y el universo creativo del artista en una muestra temática.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 43,
+    "titulo": "Catálogo. Liliana Porter",
+    "autor": "",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Publicación institucional que documenta la obra conceptual y fotográfica de una figura clave del arte contemporáneo.",
+    "imagen_url": "https://i.ibb.co/h1Wt7WwQ/Liliana-Porter-MPBA.jpg",
+    "precio": 0
+  },
+  {
+    "id": 44,
+    "titulo": "Catálogo. Beatriz García Huerta : lágrimas",
+    "autor": "García Huerta, Beatriz",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Registro expositivo que centra su análisis en lo emocional, lo corporal y la materialidad en la obra de la artista.",
+    "imagen_url": "https://i.ibb.co/60hSPKX6/Beatriz-Garc-a-Huertas-L-grimas-MPBAFR.jpg",
+    "precio": 0
+  },
+  {
+    "id": 45,
+    "titulo": "Museo provincial de bellas artes Franklin Rawson: historia y colección",
+    "autor": "Gobierno de la Provincia de San Juan.",
+    "editorial": "Museo Franklin Rawson",
+    "descripcion": "Crónica institucional que reconstruye la fundación, adquisiciones y rol cultural del museo a lo largo del tiempo.",
+    "imagen_url": "https://i.ibb.co/yny1Xd5w/MPBA-Franklin-Rawson-20-52.jpg",
+    "precio": 0
+  },
+  {
+    "id": 46,
+    "titulo": "Toñito: un pacto de hermandad nacido a la sombra de la guerra por Malvinas",
+    "autor": "Díaz, Juan Antonio Rubén",
+    "editorial": "El Abdulah",
+    "descripcion": "Testimonio o novela que aborda la guerra, el lazo fraternal y la memoria desde una perspectiva humana.",
+    "imagen_url": "https://i.ibb.co/jv5d3H5V/To-ito-D-az-Juan-Antonio-Rub-n.jpg",
+    "precio": 0
+  },
+  {
+    "id": 47,
+    "titulo": "Elementos",
+    "autor": "Rodríguez, Viviana",
+    "editorial": "Jarilla",
+    "descripcion": "Obra poética o narrativa que estructura su discurso en torno a fuerzas naturales, metáforas fundamentales o ciclos vitales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 48,
+    "titulo": "Entretelones",
+    "autor": "Soler, Sergio",
+    "editorial": "Jarilla",
+    "descripcion": "Ficción que revela lo oculto tras las apariencias, explorando tensiones sociales o psicológicas con agudeza narrativa.",
+    "imagen_url": "https://i.ibb.co/BHw2qwzn/Entretelones-Soler-Sergio-Gustavo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 49,
+    "titulo": "Romper cadenas II",
+    "autor": "Rodríguez, VivianaSoler, Sergio",
+    "editorial": "Jarilla",
+    "descripcion": "Continuidad narrativa o ensayística que profundiza en la liberación, la resistencia y la superación de estructuras opresivas.",
+    "imagen_url": "https://i.ibb.co/hFhQ8mhK/Romper-Cadenas.jpg",
+    "precio": 0
+  },
+  {
+    "id": 50,
+    "titulo": "Realidades huérfanas",
+    "autor": "Cassino, Silvana",
+    "editorial": "El Autor",
+    "descripcion": "Narrativa que aborda la desvinculación, la búsqueda de raíces y la construcción de identidad en contextos de pérdida.",
+    "imagen_url": "https://i.ibb.co/Y4L5kbrL/Realidades-huerfanas-Cassino-Silvana-el-autor.jpg",
+    "precio": 0
+  },
+  {
+    "id": 51,
+    "titulo": "La Bibliotecología académica en San Juan: apuntes para su historia",
+    "autor": "Rodas, Alicia F.  Carrizo, Ernesto Oscar",
+    "editorial": "El Abdulah",
+    "descripcion": "Estudio histórico-institucional que documenta la evolución, hitos y proyección de la disciplina en la región.",
+    "imagen_url": "https://i.ibb.co/wZq5JpcQ/La-bibliotecolog-a-acad-mica-en-San-Juan-Apuntes-para-su-historia-Rodas-Alicia-F-y-Carrizo-Ernesto-O.jpg",
+    "precio": 0
+  },
+  {
+    "id": 52,
+    "titulo": "Corazones Intrépidos: historia de amor y coraje",
+    "autor": "Molina, Dolores",
+    "editorial": "El Abdulah",
+    "descripcion": "Ficción romántica o histórica que entrelaza pasión, valentía y contextos de época con ritmo narrativo dinámico.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 53,
+    "titulo": "El Tero Grita siempre lejos del nido",
+    "autor": "Insaurralde, Facundo",
+    "editorial": "Jarilla",
+    "descripcion": "Narrativa regionalista que utiliza la fauna y el paisaje como espejos de desarraigo, identidad y memoria rural.",
+    "imagen_url": "https://i.ibb.co/GffqWykr/El-tero-grita-siempre-lejos-del-nido-Isaurralde-Facundo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 54,
+    "titulo": "Momentos curvos",
+    "autor": "Santerini, Silvio",
+    "editorial": "Jarilla",
+    "descripcion": "Obra poética o filosófica que reflexiona sobre el tiempo, la no linealidad de la experiencia y los giros del destino.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 55,
+    "titulo": "Un poco mas al sur : poemas criollos",
+    "autor": "Eriksen, Mario Daniel",
+    "editorial": "Jarilla",
+    "descripcion": "Antología lírica que celebra la tradición gauchesca, el lenguaje local y el arraigo territorial con versos sinceros.",
+    "imagen_url": "https://i.ibb.co/k2j6Vr2y/Un-poco-mas-al-sur-poemas-criolles-Eriksen-Mario-Daniel.jpg",
+    "precio": 0
+  },
+  {
+    "id": 56,
+    "titulo": "Crónica de un alma sencilla : un recorrido poético entre afectos, obligaciones y sueños",
+    "autor": "González, Leandro",
+    "editorial": "Abdulah",
+    "descripcion": "Poesía íntima y cotidiana que equilibra lo personal con lo universal en un tono accesible y conmovedor.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 57,
+    "titulo": "Sin dioses ni trampas",
+    "autor": "Bortot, Silvana",
+    "editorial": "Abdulah",
+    "descripcion": "Ensayo o narrativa que promueve la autonomía ética, el pensamiento crítico y la libertad frente a dogmas o engaños.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 58,
+    "titulo": "Destellos de soles",
+    "autor": "Caravajal, Natacha",
+    "editorial": "Abdulah",
+    "descripcion": "Obra lírica o visual que captura instantes de luz, esperanza y transformación a través de un lenguaje sensorial.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 59,
+    "titulo": "Casa Natal de Domingo F, Sarmiento \"Mirar Fundando una nueva mirada\"",
+    "autor": "Mariel Erostarbe, Juan",
+    "editorial": "effha",
+    "descripcion": "Estudio museológico e histórico que reinterpreta el patrimonio sarmientino desde perspectivas contemporáneas.",
+    "imagen_url": "https://i.ibb.co/LXT0NbCG/Casa-natal-de-Domingo-Faustino-Sarmiento-Mirar-fundando-una-nueva-mirada-Mariel-Erostarbe-Juan-Alber.png",
+    "precio": 0
+  },
+  {
+    "id": 60,
+    "titulo": "Carta del medio ambiente y su dinamica en el departamento Chimbas",
+    "autor": "Ruiz, María del Carmen (Dir.)",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Informe técnico-ambiental que analiza ecosistemas, intervenciones humanas y sostenibilidad en la zona.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 61,
+    "titulo": "Dibujos Poemas",
+    "autor": "Escudero, Jorge Leonidas",
+    "editorial": "effha",
+    "descripcion": "Fusión interdisciplinaria que une trazo y verso para crear una experiencia estética híbrida y evocadora.",
+    "imagen_url": "https://i.ibb.co/pBGYsJ5Z/Dibujos-Poemas-Escudero-Jorge-Leonidas.png",
+    "precio": 0
+  },
+  {
+    "id": 62,
+    "titulo": "Marchas e himnos patrióticos",
+    "autor": "Blanco, Patricia",
+    "editorial": "effha",
+    "descripcion": "Compilación musicológica y histórica que rescata partituras, contextos y significados de la música cívica argentina.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 63,
+    "titulo": "Para hechizarte mejor",
+    "autor": "González , Delia Beatriz",
+    "editorial": "UNSJFFHA",
+    "descripcion": "Ensayo o relato que explora la seducción, el lenguaje y el poder de las palabras desde una mirada lúdica o crítica.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 64,
+    "titulo": "José de San Martín y Domingo Faustino Sarmiento",
+    "autor": "Brizuela, Gabriel Eduardo",
+    "editorial": "effha",
+    "descripcion": "Estudio comparativo o biográfico que analiza legados, pensamiento político y proyección histórica de ambos próceres.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 65,
+    "titulo": "Revista de Geografía Nº 18",
+    "autor": "Poblete, Arnobio G.",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Publicación académica que aborda problemáticas espaciales, territoriales y ambientales con rigor científico.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 66,
+    "titulo": "Revista de Geografía Nº 19 año 2015",
+    "autor": "Poblete, Arnobio G.  (Dir.)",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Edición especializada que profundiza en dinámicas regionales, cartografía crítica y planificación territorial.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 67,
+    "titulo": "Revista de Geografía Nº 20año 2016",
+    "autor": "Poblete, Arnobio G.  (Dir.)",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Número que consolida investigaciones sobre cambios demográficos, urbanos y ecológicos en contextos actuales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 68,
+    "titulo": "La Universidad Nacional de San Juan y la profesión artística",
+    "autor": "Garcia Fabiana",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Análisis institucional que examina la formación, inserción laboral y valoración social de las carreras de arte.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 69,
+    "titulo": "Las fronteras de la literatura Argentina en la región de Cuyo: el habla poética de Jorge Leonidas Escudero",
+    "autor": "Mosert, Beatriz",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Estudio crítico que posiciona la voz escuderiana dentro del canon nacional y sus particularidades regionales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 70,
+    "titulo": "Redefinir la mirada: la formación docente nopresencial en la Universidad Nacional de San Juan",
+    "autor": "Waisman, Elena RutOlivares, Mario",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Investigación educativa que evalúa modelos virtuales, competencias docentes y desafíos pedagógicos contemporáneos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 71,
+    "titulo": "Música: repertorio oficial ejecutado en guitarra",
+    "autor": "Hidalgo Peluc, Fernando R.",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Manual o antología que sistematiza obras, técnicas y criterios interpretativos para la enseñanza académica del instrumento.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 72,
+    "titulo": "Estudio de la problemática de la accesibilidad en el ámbito de los servicios turísticos, Caso San Juan",
+    "autor": "Begueri, María Natalia",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Diagnóstico aplicado que propone soluciones inclusivas y evalúa barreras físicas, digitales y comunicacionales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 73,
+    "titulo": "La actividad musical en el instituto superior de artes en San Juan: proyección artistica y educativa 19601965",
+    "autor": "Porras, Graciela",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Crónica histórica que documenta hitos, pedagogías y producciones de una etapa fundacional en la educación musical regional.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 74,
+    "titulo": "La ciudad y su gente: la ciudad de San Juan de la Frontera y su dinámica demográfica (1665 1704)",
+    "autor": "Sánchez Cano, Alicia",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Investigación histórica que reconstruye poblamiento, estructuras sociales y vida cotidiana en los siglos XVII-XVIII.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 75,
+    "titulo": "El sótano",
+    "autor": "Benavídez, Andrea",
+    "editorial": "FFHA UNSJ",
+    "descripcion": "Ficción o teatro que utiliza el espacio subterráneo como metáfora de lo reprimido, lo secreto o la exploración psicológica.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 76,
+    "titulo": "Cuando tu nombre se asfixia en una X",
+    "autor": "Aguirre, María Alicia",
+    "editorial": "Abdulah",
+    "descripcion": "Narrativa o poesía que aborda identidad, género, invisibilización o resistencia desde un lenguaje simbólico y contundente.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 77,
+    "titulo": "Sin permiso de Ernest",
+    "autor": "Aguirre, María Alicia",
+    "editorial": "Abdulah",
+    "descripcion": "Relato de apropiación literaria, diálogo intertextual o ficción autónoma que cuestiona autorías y límites creativos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 78,
+    "titulo": "Juan de mi vida",
+    "autor": "Colom, Analia",
+    "editorial": "Puntoaparte",
+    "descripcion": "Ficción intimista o biográfica novelada que explora vínculos afectivos, memorias compartidas y la construcción del yo.",
+    "imagen_url": "https://i.ibb.co/R40pfnBD/Juan-de-mi-vida-Anal-a-Colom.jpg",
+    "precio": 0
+  },
+  {
+    "id": 79,
+    "titulo": "Ensamblados",
+    "autor": "Colom, Analia",
+    "editorial": "Puntoaparte",
+    "descripcion": "Narrativa o ensayo que reflexiona sobre la conexión, la fragmentación y la recomposición de identidades en contextos actuales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 80,
+    "titulo": "Los Garay del agua hallada de San AntonioLa Rioja: antecedentes, genealogía, costumbres.",
+    "autor": "Zalazar Garay, José Manuel",
+    "editorial": "El Autor",
+    "descripcion": "Investigación genealógica y costumbrista que rescata linajes, prácticas y memoria familiar en un territorio específico.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 81,
+    "titulo": "La lilén",
+    "autor": "Colom, Analia",
+    "editorial": "Tinta Libre",
+    "descripcion": "Obra poética o narrativa que utiliza la flora o lo rural como eje simbólico para hablar de pertenencia, ciclo y transformación.",
+    "imagen_url": "https://i.ibb.co/kgVn7Prj/La-lil-n-Colom-Analia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 82,
+    "titulo": "Voces en el viento",
+    "autor": "Ruiz, Cristina",
+    "editorial": "Estornito",
+    "descripcion": "Poesía o relato que captura testimonios, ecos del pasado y la fugacidad de la palabra en el espacio abierto.",
+    "imagen_url": "https://i.ibb.co/cS359s07/Voces-en-el-viento-Cristina-Ruiz.jpg",
+    "precio": 0
+  },
+  {
+    "id": 83,
+    "titulo": "Tesoros",
+    "autor": "Moreno del Valle, María Elizabeth",
+    "editorial": "Abdulah",
+    "descripcion": "Narrativa o ensayo que revalúa lo cotidiano, lo heredado o lo espiritual como verdaderas riquezas intangibles.",
+    "imagen_url": "https://i.ibb.co/Vp94WTkv/Tesoros-Moreno-Mar-a-Elizabeth-Recovered.jpg",
+    "precio": 0
+  },
+  {
+    "id": 84,
+    "titulo": "Historia y recuerdos del Barrio Calle Sargento Cabral Oeste Desamparados, Capital  Rivadavia",
+    "autor": "Rodriguez, Nora Inés",
+    "editorial": "Plaza",
+    "descripcion": "Crónica barrial que documenta memoria oral, transformaciones urbanas y tejido social de una comunidad específica.",
+    "imagen_url": "https://i.ibb.co/Hm6p63d/Historia-y-recuerdos-del-Barrio-Calle-Sargento-Cabral-Nora-In.jpg",
+    "precio": 0
+  },
+  {
+    "id": 85,
+    "titulo": "Hijo de la mafia ¿sabes guardar un secreto?",
+    "autor": "Avila, Luis",
+    "editorial": "El autor",
+    "descripcion": "Ficción de suspenso o novela negra que explora lealtad, traición y códigos de honor en contextos de ilegalidad.",
+    "imagen_url": "https://i.ibb.co/Hfssj7jy/Hijo-de-la-mafia-Luis-Avila.jpg",
+    "precio": 0
+  },
+  {
+    "id": 86,
+    "titulo": "Los juegos del jefe",
+    "autor": "Avila, Luis",
+    "editorial": "Planeta",
+    "descripcion": "Ensayo o narrativa que disecciona dinámicas de poder, liderazgo y estrategia en entornos corporativos o sociales.",
+    "imagen_url": "https://i.ibb.co/vCVL8Qtr/Los-juegos-del-jefe-vila-Luis-Planeta.jpg",
+    "precio": 0
+  },
+  {
+    "id": 87,
+    "titulo": "Inteligencia emocional y liderazgo",
+    "autor": "Olivares, MartínVelázquez, GabrielaÄvila, Luis",
+    "editorial": "Abdulah",
+    "descripcion": "Manual académico-práctico que integra psicología, gestión y habilidades blandas para la formación de conductores.",
+    "imagen_url": "https://i.ibb.co/GQgFK6ZG/Inteligencia-emocional-y-liderazgo-Luis-Avila.jpg",
+    "precio": 0
+  },
+  {
+    "id": 88,
+    "titulo": "Tierra del sol, tierra de leyendas",
+    "autor": "Ortiz, Lea Maia",
+    "editorial": "Abdulah",
+    "descripcion": "Recopilación o ficción que rescata mitologías locales, relatos fundacionales y el imaginario colectivo de una región.",
+    "imagen_url": "https://i.ibb.co/wZvR6gRR/Tierra-del-sol-Tierra-de-leyendas-Lea-Maja-Ortiz.jpg",
+    "precio": 0
+  },
+  {
+    "id": 89,
+    "titulo": "Soñando con Eugenia ; novela",
+    "autor": "Videla Moya, Guillermo  Horacio",
+    "editorial": "Dunken",
+    "descripcion": "Ficción romántica o psicológica que sigue un itinerario emocional en torno al deseo, la idealización y el encuentro.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 90,
+    "titulo": "Ramòn \"la muerte\" Varela",
+    "autor": "Videla Moya, Guillermo  Horacio",
+    "editorial": "Dunken",
+    "descripcion": "Biografía novelada o crónica que reconstruye la vida, el contexto y el legado de una figura popular o histórica.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 91,
+    "titulo": "Universo compol II : el surgimiento o el renacimiento de la polìtica",
+    "autor": "Brizuela, Nadia",
+    "editorial": "Dunken",
+    "descripcion": "Ensayo político-teórico que analiza transformaciones, discursos y nuevas configuraciones del poder contemporáneo.",
+    "imagen_url": "https://i.ibb.co/ZpHMLfDh/Universo-compol-II-Brizuela-Nadia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 92,
+    "titulo": "El libro de Joaquin",
+    "autor": "Gutierrez, Melisa",
+    "editorial": "Quo Vadis",
+    "descripcion": "Ficción o testimonio que centra su narrativa en la figura de Joaquín como eje de reflexión existencial o familiar.",
+    "imagen_url": "https://i.ibb.co/q3QkYPfv/El-Libro-de-Joaquin-Melisa-Gutierrez.jpg",
+    "precio": 0
+  },
+  {
+    "id": 93,
+    "titulo": "Cuando los pájaros sueñan",
+    "autor": "Fatún, Darío",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Poesía o relato que utiliza lo onírico y la naturaleza como espejos de la condición humana y la búsqueda de sentido.",
+    "imagen_url": "https://i.ibb.co/27cPSSt2/Cuando-los-p-jaros-sue-an-Dar-o-Fat-n-Ed-Autores-de-Argentina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 94,
+    "titulo": "Universo compol I",
+    "autor": "Brizuela, Nadia",
+    "editorial": "JaureguiberryAguiar Gomes",
+    "descripcion": "Primera entrega de un ciclo analítico que establece bases teóricas y marcos conceptuales para entender el fenómeno político actual.",
+    "imagen_url": "https://i.ibb.co/JwGHGVMf/Universo-compol-I-Brizuela-Nadia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 95,
+    "titulo": "Entre chaquetillas y guardapolvos",
+    "autor": "Sánchez, Gregorio Hemando",
+    "editorial": "El autor",
+    "descripcion": "Crónica educativa o social que retrata costumbres, jerarquías y experiencias dentro del ámbito escolar o institucional.",
+    "imagen_url": "https://i.ibb.co/3yC0JPxk/Entre-chaquetillas-y-guardapolvos-S-nchez-Gregorio.jpg",
+    "precio": 0
+  },
+  {
+    "id": 96,
+    "titulo": "Memorias y Anécdotas : de un estudiante sanjuanino en Córdoba",
+    "autor": "Sánchez, Gregorio Hemando",
+    "editorial": "El autor",
+    "descripcion": "Relato autobiográfico que documenta vivencias académicas, choques culturales y crecimiento personal en otra provincia.",
+    "imagen_url": "https://i.ibb.co/gZxpYDXB/Memorias-y-an-cdotas-S-nchez-Gregorio.jpg",
+    "precio": 0
+  },
+  {
+    "id": 97,
+    "titulo": "100 historias. Sanjuaninos en la pandemia de coronavirus",
+    "autor": "Bustamante, Pablo Esteban",
+    "editorial": "Abdulah",
+    "descripcion": "Testimonio colectivo que recoge vivencias, adaptaciones y reflexiones durante la crisis sanitaria global.",
+    "imagen_url": "https://i.ibb.co/fdxf8ftj/100-Historias-Sanjuaninosen-la-pandemia-de-coronavirus-Bustama.jpg",
+    "precio": 0
+  },
+  {
+    "id": 98,
+    "titulo": "Poemas y relatos en primavera : antología internacional 2024",
+    "autor": "Trigo, Nora Patricia",
+    "editorial": "La Retórica",
+    "descripcion": "Compilación bilingüe o multicultural que celebra la estación, la renovación y la diversidad de voces literarias contemporáneas.",
+    "imagen_url": "https://i.ibb.co/Q79BF7C2/Poemas-y-Relatos-en-Primavera-Antologia-Internacional-2024.jpg",
+    "precio": 0
+  },
+  {
+    "id": 99,
+    "titulo": "Capilla San Isidro Labrador: la Puntilla Caucete",
+    "autor": "Fonseca, Miriam Mabel",
+    "editorial": "Abdulah",
+    "descripcion": "Estudio patrimonial o histórico que documenta arquitectura, devoción popular y significado social de un templo local.",
+    "imagen_url": "https://i.ibb.co/mrtMYRMZ/Capilla-San-Isidro-Labrador-Miriam-Mabel-Fonseca.jpg",
+    "precio": 0
+  },
+  {
+    "id": 100,
+    "titulo": "Soliloquios : antología, cuentos y poemas de escritores del sol",
+    "autor": "Escobar Ruarte, Estela Mary...[et.al]",
+    "editorial": "equinoXio",
+    "descripcion": "Recopilación que reúne voces literarias de una región o colectivo, destacando introspección y diversidad estilística.",
+    "imagen_url": "https://i.ibb.co/Gv6SnJx1/Soliloquius-Antologia-cuentos-y-poemas-de-escritores-del-sol.jpg",
+    "precio": 0
+  },
+  {
+    "id": 101,
+    "titulo": "Suelo nocturno",
+    "autor": "Sánchez Gustavo",
+    "editorial": "Elandamio",
+    "descripcion": "Poesía o ficción que explora la oscuridad, lo oculto y los ritmos internos mediante un lenguaje denso y atmosférico.",
+    "imagen_url": "https://i.ibb.co/HL7thmBK/Suelo-nocturno-S-nchez-Gustavo-Elandamio.jpg",
+    "precio": 0
+  },
+  {
+    "id": 102,
+    "titulo": "Postrimerías del siglo XXI",
+    "autor": "Casas, José",
+    "editorial": "Elandamio",
+    "descripcion": "Ensayo o narrativa que reflexiona sobre el cierre de una era, los desafíos futuros y la huella humana en el tiempo.",
+    "imagen_url": "https://i.ibb.co/nq048w6g/Postrimer-as-del-siglo-XXI-Casas-Jos-Elandamio.jpg",
+    "precio": 0
+  },
+  {
+    "id": 103,
+    "titulo": "Basado en hechos reales",
+    "autor": "López, Damián",
+    "editorial": "Elandamio",
+    "descripcion": "Ficción o crónica que difumina límites entre documento y creación, cuestionando veracidad y construcción narrativa.",
+    "imagen_url": "https://i.ibb.co/G4hbjPpF/Basados-en-hechos-reales-Damian-lopez-1.jpg",
+    "precio": 0
+  },
+  {
+    "id": 104,
+    "titulo": "La guardiana digital",
+    "autor": "Bellotti, Silvana Myriam",
+    "editorial": "Coordillerana Ediciones",
+    "descripcion": "Ensayo o narrativa que aborda la era digital, la protección de datos, la identidad virtual y los nuevos desafíos éticos.",
+    "imagen_url": "https://i.ibb.co/Rp1ZTYmY/La-guardiana-digital-Belloti-Silvana-Myriam-Cordillerana.jpg",
+    "precio": 0
+  },
+  {
+    "id": 105,
+    "titulo": "Ya no traen un libro debajo del brazo... traen un pan: crianza armoniosa de los hijos",
+    "autor": "Bellotti, Silvana Myriam",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Manual o ensayo pedagógico que prioriza lo afectivo, lo cotidiano y la nutrición emocional en la crianza contemporánea.",
+    "imagen_url": "https://i.ibb.co/rGwvgWzS/Y-no-traen-un-libro-debajo-del-brazo-traen-un-pan-Belloti-Silvana-Myriam-Autores-de-Argentina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 106,
+    "titulo": "Hacer clic con los niños: Psicoterapia gestáltica más allá (y más acá) de la presencialidad",
+    "autor": "Bellotti, Silvana Myriam",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Estudio clínico-práctico que adapta enfoques terapéuticos a entornos virtuales y presenciales con enfoque infantil.",
+    "imagen_url": "https://i.ibb.co/Z1cfC0Vz/Hacer-clic-con-los-ni-os-Psicoterapia-Gestaltica-mas-alla-y-m-s-ac-de-la-presencialidad-Belloti-Silv.jpg",
+    "precio": 0
+  },
+  {
+    "id": 107,
+    "titulo": "Ma... ¿De qué charlamos hoy?: creciendo con hábitos saludables",
+    "autor": "Bellotti, Silvana Myriam",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Guía familiar que fomenta diálogo, rutinas conscientes y bienestar integral desde una perspectiva gestáltica y cotidiana.",
+    "imagen_url": "https://i.ibb.co/VYLPdW7v/Ma-De-qu-charlamos-hoy-Belloti-Silvana-Myriam-Autores-de-Argentina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 108,
+    "titulo": "El campamento luminoso: cuentos para desconectar y brillar",
+    "autor": "Bellotti, Silvana Myriam",
+    "editorial": "Coordillerana Ediciones",
+    "descripcion": "Literatura infantil o juvenil que promueve la creatividad, el juego y la desconexión tecnológica mediante relatos esperanzadores.",
+    "imagen_url": "https://i.ibb.co/zhmvnMJf/El-Campamento-Luminoso-cuentosparadesconectarybrillar-silvana-My0001.jpg",
+    "precio": 0
+  },
+  {
+    "id": 109,
+    "titulo": "El viaje de la Abeja Lola",
+    "autor": "Rodríguez, Iliana.",
+    "editorial": "Abdulah",
+    "descripcion": "Cuento infantil que utiliza la naturaleza y la aventura para enseñar valores ecológicos y de cooperación.",
+    "imagen_url": "https://i.ibb.co/mrx5ZggY/El-viaje-de-la-abeja-lola-Rodriguez-Iliana.jpg",
+    "precio": 0
+  },
+  {
+    "id": 110,
+    "titulo": "Apuntes sobre creatividad : una perspectiva junguiana",
+    "autor": "Beltrán, María Asunción",
+    "editorial": "Luz Azcona",
+    "descripcion": "Ensayo psicológico que explora el inconsciente colectivo, los arquetipos y su relación con los procesos creativos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 111,
+    "titulo": "El fuego que nunca apagamos",
+    "autor": "Siillero, Gonzalo",
+    "editorial": "Abdulah",
+    "descripcion": "Narrativa o poesía que aborda la resistencia, la memoria viva y la transmisión intergeneracional de ideales o traumas.",
+    "imagen_url": "https://i.ibb.co/B2KRNM6m/el-fuego-que-nunca-apagamos-GONZALLO-SILLERO.jpg",
+    "precio": 0
+  },
+  {
+    "id": 112,
+    "titulo": "Boca de Zorro 2025 : antología de poesia oral. Slam poético",
+    "autor": "Solar, Lu...[et.al]",
+    "editorial": "Abdulah",
+    "descripcion": "Documento visual e histórico que aborda el slam caucetero, la palabra dicha y la performance urbana.",
+    "imagen_url": "https://i.ibb.co/VYrfdRDd/BOCA-DE-ZORRO-ANTOLOGIA-POETICA-01-SLAM-POETICO-SAN-JUAN.jpg",
+    "precio": 0
+  },
+  {
+    "id": 113,
+    "titulo": "Mi superhéroe comenzó a sonreír",
+    "autor": "Casiva, Marcelo",
+    "editorial": "Tinta Libre",
+    "descripcion": "Biografía novelada que explora resiliencia, lucha y esperanza en un entorno de transformación personal.",
+    "imagen_url": "https://i.ibb.co/HL2wJsqC/Mi-superheroe-comenzo-a-sonreir-Casiva-Marcelo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 114,
+    "titulo": "Casi ácido casi loco : mi mundo",
+    "autor": "Casiva, Marcelo",
+    "editorial": "MC ediciones",
+    "descripcion": "Narrativa intimista que reflexiona sobre la fragilidad, el humor y la cruda realidad de la vida cotidiana.",
+    "imagen_url": "https://i.ibb.co/xKyPxQMz/Casi-cido-casi-loco-Casiva-Marcelo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 115,
+    "titulo": "Desafiando al silencio: relatos cortos",
+    "autor": "Casiva, Marcelo",
+    "editorial": "MC ediciones",
+    "descripcion": "Colección de cuentos que rompe barreras a través de la brevedad, la contundencia y la observación sagaz.",
+    "imagen_url": "https://i.ibb.co/KpYR5h4c/Desafiando-al-silencio-relatos-cortos-Casiva-Marcelo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 116,
+    "titulo": "Maravilloso mundo: relatos cortos",
+    "autor": "Casiva, Marcelo",
+    "editorial": "MC ediciones",
+    "descripcion": "Obra polifónica que rescata belleza y drama en fragmentos narrativos cargados de emoción y lucidez.",
+    "imagen_url": "https://i.ibb.co/4RYMmxmz/Maravilloso-mundo-Casiva-Marcelo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 117,
+    "titulo": "Protegidos",
+    "autor": "Casiva, Marcelo",
+    "editorial": "MC ediciones",
+    "descripcion": "Ficción contemporánea que aborda vulnerabilidad, cuidado emocional y la construcción de identidades seguras.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 118,
+    "titulo": "Adrián Campillay : poesía reunida",
+    "autor": "Campillay, Adrián",
+    "editorial": "Abdulah",
+    "descripcion": "Compilación lírica que agrupa la obra dispersa del autor, revelando su evolución estilística y temática.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 119,
+    "titulo": "Casi nunca jamás Vol. I : el epistolario privado de la familia Crash Pijatoes Dummies",
+    "autor": "Sánchez, Maximiliano",
+    "editorial": "Abdulah",
+    "descripcion": "Ficción epistolar o satírica que disecciona con humor ácido los lazos y absurdos de una dinámica familiar.",
+    "imagen_url": "https://i.ibb.co/zVHpdr9Z/Casi-nunca-Jamas-Maximiliano-Sanchez.jpg",
+    "precio": 0
+  },
+  {
+    "id": 120,
+    "titulo": "Casi nunca jamás Vol. II : Dreamland",
+    "autor": "Sánchez, Maximiliano",
+    "editorial": "Abdulah",
+    "descripcion": "Continuidad literaria que expande el universo onírico y cáustico del autor con gran inventiva narrativa.",
+    "imagen_url": "https://i.ibb.co/fVTYRPKC/Casi-nunca-Jamas-Dreamland-Maximiliano-Sanchez.jpg",
+    "precio": 0
+  },
+  {
+    "id": 121,
+    "titulo": "Devociones y relatos míticos de San Juan",
+    "autor": "Delgado, Edmundo JorgeMercado, Ramón",
+    "editorial": "Diseños Cartelería",
+    "descripcion": "Investigación etnográfica que rescata leyendas, fe popular y sincretismo cultural en el territorio cuyano.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 122,
+    "titulo": "Arqueología de Angualasto: historia, ruinas y cóndores",
+    "autor": "Michieli, Catalina Teresa",
+    "editorial": "UNSJ",
+    "descripcion": "Estudio científico que analiza patrimonio material, contexto histórico y fauna en un sitio arqueológico clave.",
+    "imagen_url": "https://i.ibb.co/Vcj00c43/Arqueolog-a-de-Angualasto-Historia-ruinas-y-c-ndores-Michieli-Catalina-Teresa-UNSJ.jpg",
+    "precio": 0
+  },
+  {
+    "id": 123,
+    "titulo": "La fundación de villas en San Juan (siglo XVIII)",
+    "autor": "Michieli, Catalina Teresa",
+    "editorial": "UNSJ",
+    "descripcion": "Crónica histórica que documenta poblamiento, ordenamiento urbano y tensiones sociales en la colonia temprana.",
+    "imagen_url": "https://i.ibb.co/nqSh03gf/La-fundaci-n-de-villas-en-San-Juan-Siglo-XVIII-Michieli-Catalina-Teresa-Sociedad-Argentina-de-Antrop.jpg",
+    "precio": 0
+  },
+  {
+    "id": 124,
+    "titulo": "Prehistoria e historia colonial de San Juan: una vision integral",
+    "autor": "Mallea, Claudia N.  Genini, Guillermo F.",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Síntesis académica que vincula orígenes prehispánicos y transformaciones coloniales con rigor interdisciplinario.",
+    "imagen_url": "https://i.ibb.co/d0M20TRW/Prehistoria-e-historia-colonial-de-San-Juan-Una-visi-n-integral-Instituto-de-Investigaci-n-Arqueol-g.jpg",
+    "precio": 0
+  },
+  {
+    "id": 125,
+    "titulo": "Publicación N° 30 (nueva serie) Modificaciones del paisaje cultural del sitio Rincon de Vallejos (San Juan)…",
+    "autor": "Mallea, Claudia N.  Genini, Guillermo F.",
+    "editorial": "UNSJ",
+    "descripcion": "Informe técnico que evalúa impacto antrópico, cambios territoriales y conservación de un paisaje histórico.",
+    "imagen_url": "https://i.ibb.co/n8BT8fY7/Publicaci-n-N-30-nueva-serie-Modificaciones-del-paisaje-cultural-del-sitio-Rincon-de-Vallejos-San-Ju.jpg",
+    "precio": 0
+  },
+  {
+    "id": 126,
+    "titulo": "Publicación N° 29 (nueva serie) Huarpes, Españoles y Jesuitas en Cuyo (siglos XVI a XVIII)",
+    "autor": "Michieli, Catalina Teresa (comp.)",
+    "editorial": "UNSJ",
+    "descripcion": "Análisis complejo sobre encuentros, conflictos y mestizajes entre grupos étnicos y religiosos en la frontera colonial.",
+    "imagen_url": "https://i.ibb.co/4Z6YCgtr/Publicaci-n-N-29-nueva-serie-Huarpes-Espa-oles-y-Jesuitas-en-Cuyo-siglos-XVI-a-XVIII.png",
+    "precio": 0
+  },
+  {
+    "id": 127,
+    "titulo": "Agricultura familiar en San Juan: presente, perspectivas y desafíos de la configuración de territorialidades.",
+    "autor": "De la Torre, Delia Moscheni, Margarita",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Estudio socio-rural que analiza resiliencia, soberanía alimentaria y políticas públicas para pequeños productores.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 128,
+    "titulo": "Historias del agua y de la sed: las comunidades originarias del Encon",
+    "autor": "Casas, José Nicanor Climent, Andrea Larreta,Gerardo",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Testimonio o ensayo que aborda la lucha por el recurso hídrico y la resiliencia de pueblos ancestrales en el desierto.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 129,
+    "titulo": "La megaminería en San Juan: cerca del cielo desde las entrañas del suelo",
+    "autor": "Moscheni, Margarita",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Análisis crítico que evalúa dimensiones económicas, ambientales y sociales de la industria extractiva regional.",
+    "imagen_url": "https://i.ibb.co/TBJLF9qw/La-megaminer-a-en-San-Juan-Cerca-del-cielo-desde-las-entra-as-del-suelo-Entramado-trabajo-y-estado-M.jpg",
+    "precio": 0
+  },
+  {
+    "id": 130,
+    "titulo": "Nobles defensores: señorío, caballería y justicia en el pensamiento de don Juan Manuel",
+    "autor": "Asiss González, Federico J.",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Ensayo filosófico-histórico que reconstruye la ética del poder y los valores sociales en la literatura medieval.",
+    "imagen_url": "https://i.ibb.co/SDLDSZ6f/Nobles-defensores-Assis-Gonz-lez-Federico-J-UNSJ.jpg",
+    "precio": 0
+  },
+  {
+    "id": 131,
+    "titulo": "Daño estético",
+    "autor": "Pandiella Molina, Juan Carlos",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Obra jurídica o ensayística que profundiza en la responsabilidad civil, la reparación y el impacto legal de lesiones visuales.",
+    "imagen_url": "https://i.ibb.co/k6VFTvX5/Da-o-est-tico-Pandiella-Molino-Juan-Carlos-EFU.jpg",
+    "precio": 0
+  },
+  {
+    "id": 132,
+    "titulo": "UNSJ. 50 años construyendo San Juan 1973 - 2023",
+    "autor": "UNSJ",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Documento institucional que sistematiza hitos, transformaciones y aportes de la universidad pública al territorio.",
+    "imagen_url": "https://i.ibb.co/8nF1mdj4/UNSJ-50-A-OS-Construyendo-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 133,
+    "titulo": "Estaciones ferroviarias : en la provincia de San Juan",
+    "autor": "Pomba, Daniel",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Registro visual e histórico que recorre arquitectura, tecnología y vida cotidiana ligada al ferrocarril regional.",
+    "imagen_url": "https://i.ibb.co/k2PnTBnJ/Estaciones-Ferroviarias-en-la-provincia-de-San-Juan-Daniel-Pom.jpg",
+    "precio": 0
+  },
+  {
+    "id": 134,
+    "titulo": "Cielo de los zurdos : vida de Jorge Mena Puebla",
+    "autor": "Mena, Ingrid KaremVillegas, Emilia",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Biografía o perfil cultural que retrata la singularidad, obra y contexto de una figura relevante del medio local.",
+    "imagen_url": "https://i.ibb.co/XfJS1KmX/Cielo-de-los-Zurdos.jpg",
+    "precio": 0
+  },
+  {
+    "id": 135,
+    "titulo": "Redes eléctricas : de distribución primaria y secundaría",
+    "autor": "Olsen, Rolando",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Manual técnico especializado que profundiza en infraestructura, normativas y gestión de energía eléctrica.",
+    "imagen_url": "https://i.ibb.co/N2Q3t295/Redes-electricas-Rolando-Olsen.jpg",
+    "precio": 0
+  },
+  {
+    "id": 136,
+    "titulo": "Oriente y Occidente : miradas plurales",
+    "autor": "Espejo Ravelli, Cristian...[et.al]",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Compendio académico que dialoga sobre alteridad, globalización e identidades en tránsito entre culturas diversas.",
+    "imagen_url": "https://i.ibb.co/GvM8drsL/Oriente-y-Occidente-Cristian-Rovelli-Silvina-Lopez-Rios-Claudi.jpg",
+    "precio": 0
+  },
+  {
+    "id": 137,
+    "titulo": "Delegación Valles Sanjuaninos : UNSJ10 años. Universidad, derechos y territorio.",
+    "autor": "Berenguer, Tadeo...[et.al]",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Informe de gestión y extensión que evalúa una década de territorialización educativa en zonas alejadas.",
+    "imagen_url": "https://i.ibb.co/60XG3DgJ/Delegacion-Valles-Sanjuaninos.jpg",
+    "precio": 0
+  },
+  {
+    "id": 138,
+    "titulo": "Del silencio a las revueltas : contribuciones sociológicas a los estudios de género.",
+    "autor": "Chousal Lizama, Paloma...[et.al]",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Ensayo colectivo que reflexiona sobre resistencias, discursos y transformaciones feministas en la región.",
+    "imagen_url": "https://i.ibb.co/gbVkDgjs/Del-silencio-a-las-revueltas.jpg",
+    "precio": 0
+  },
+  {
+    "id": 139,
+    "titulo": "La meua xiqueta : las labores y los días de la mujer valenciana en San Juan.",
+    "autor": "Berenguer, Josefa Antonia",
+    "editorial": "Editorial UNSJ",
+    "descripcion": "Crónica migratoria que documenta trabajo, vida cotidiana y legado de una comunidad europea específica en Cuyo.",
+    "imagen_url": "https://i.ibb.co/r2Krf8yG/La-meua-XIQUETA-las-labores-y-los-dias-de-la-mujer-valenciana.jpg",
+    "precio": 0
+  },
+  {
+    "id": 140,
+    "titulo": "Algo más que comer o no comer: abordaje gestáltico a la alimentación y sus trastornos",
+    "autor": "Giménes Bawden, Sonia",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Texto clínico-psicológico que integra nutrición, emociones y psicoterapia desde un enfoque integral de salud.",
+    "imagen_url": "https://i.ibb.co/hxNqhLVG/Amores-sanos-y-de-los-otros-Sonia-Gim-nes-Bawden-Editorial-Autores-de-Argentina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 141,
+    "titulo": "Amores sanos y de los otros: mirada e intervenciones gestálticas en el funcionamiento de pareja",
+    "autor": "Giménes Bawden, Sonia",
+    "editorial": "Autores de Argentina",
+    "descripcion": "Manual práctico sobre dinámicas vinculares, resolución de conflictos y salud emocional en relaciones amorosas.",
+    "imagen_url": "https://i.ibb.co/hxNqhLVG/Amores-sanos-y-de-los-otros-Sonia-Gim-nes-Bawden-Editorial-Autores-de-Argentina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 142,
+    "titulo": "Yolanda Hadad en Barreal. Una Historia para recordar",
+    "autor": "Hadad, Yolanda",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Testimonio local que rescata memoria oral, identidad comunitaria y vivencias significativas en un paraje montañoso.",
+    "imagen_url": "https://i.ibb.co/LdmqVY4X/Yolanda-Hadad-en-Barreal-Una-historia-para-recordar-Hadad-Yo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 143,
+    "titulo": "San Agustín y Nosotros",
+    "autor": "García, Juan José",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Ensayo teológico-filosófico que actualiza la vigencia del pensamiento agustiniano en debates actuales.",
+    "imagen_url": "https://i.ibb.co/8LX33Djq/Presencia-de-San-Agustin-Jos-Juan-Garcia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 144,
+    "titulo": "6 Grandes desafíos en la educación de hoy",
+    "autor": "Ariza, Alfredo",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Análisis pedagógico propositivo que identifica nudos críticos y estrategias de mejora para el sistema educativo actual.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 145,
+    "titulo": "Medicina Social en la formación de médicos en Argentina",
+    "autor": "Larrea Arnau, Claudio Marcelo",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Estudio sobre educación médica que enfatiza la dimensión ética, humanista y el compromiso social de la profesión.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 146,
+    "titulo": "Presencia de San Agustin en Benedicto XVI y el Papa Francisco",
+    "autor": "García, Juan José",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Estudiocomparativo que analiza la influencia lírica y doctrinal del santo en los dos pontífices modernos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 147,
+    "titulo": "Las ideologias, miradas desde la doctrina social de la iglesia",
+    "autor": "Senatore, Alejandro",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Análisis ético-político que evalúa corrientes de pensamiento modernas bajo el prisma del bien común cristiano.",
+    "imagen_url": "https://i.ibb.co/S4XfcDXx/Las-ideolog-as-miradas-desde-la-doctrina-social-de-la-iglesia-Senatore-Alejandro.jpg",
+    "precio": 0
+  },
+  {
+    "id": 148,
+    "titulo": "Manual de derecho procesal, teoría general del derecho",
+    "autor": "Alvarado Velloso, Adolfo A.",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Tratado sistemático de doctrina jurídica orientado a formación académica y ejercicio profesional de calidad.",
+    "imagen_url": "https://i.ibb.co/s9QSfbB0/Manual-de-derecho-procesal-Adolfo-Alvarado-Velloso.jpg",
+    "precio": 0
+  },
+  {
+    "id": 149,
+    "titulo": "Conceptos estadísticos para las ciencias de la salud",
+    "autor": "Álvarez, Edgardo O.",
+    "editorial": "Fondo Editorial UCC",
+    "descripcion": "Manual aplicado que facilita herramientas cuantitativas para investigación biomédica y gestión sanitaria.",
+    "imagen_url": "https://i.ibb.co/KzWpZtKJ/Conceptos-estadisticos-para-las-ciencias-de-la-salud-Edgardo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 150,
+    "titulo": "Antigua Sed",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía o narrativa evocadora que trabaja memoria, identidad y anhelo con delicada profundidad lírica.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 151,
+    "titulo": "Chacareros: tras los pasos de la sociedad de chacareros temporarios de San Juan: 50 años al servicio de la producción hortícola.",
+    "autor": "Karol, Ana. [et.al]",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Crónica gremial-sociológica que documenta medio siglo de lucha, organización y aportes al agro regional.",
+    "imagen_url": "https://i.ibb.co/Lzv74KKd/Chacareros-Tras-los-pasos-de-la-sociedad-de-chacareros-tempora.jpg",
+    "precio": 0
+  },
+  {
+    "id": 152,
+    "titulo": "Compilación San Juan escribe 2023: cuentos, relato breve: 40 años de democracia",
+    "autor": "Gonzalez, Delia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Antología ciudadana que celebra la libertad de expresión a través de variadas voces narrativas locales.",
+    "imagen_url": "https://i.ibb.co/S40syLtZ/Compilaci-n-San-Juan-Escribe-Cuento-Relato-breve-40-a-os-de-democracia-Relato-breve-Fondo-Editorial.jpg",
+    "precio": 0
+  },
+  {
+    "id": 153,
+    "titulo": "Delirios de Autor",
+    "autor": "Olmedo,Poe Álvaro",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Exploración lúdica sobre la creación literaria, los límites de la ficción y la construcción del yo autoral.",
+    "imagen_url": "https://i.ibb.co/LXZKjsYd/Autor-de-Delirios-Alvaro-Poe-Olmedo-San-Juan-Escribe-Ed.jpg",
+    "precio": 0
+  },
+  {
+    "id": 154,
+    "titulo": "Delito de acción: la apología del delito a través del lente cinematográfico (19161955)",
+    "autor": "Rodriguez Romero, Matias Germán",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo interdisciplinario que analiza cine clásico y normativas jurídicas sobre la representación del crimen.",
+    "imagen_url": "https://i.ibb.co/d0GGzgw3/Delito-de-acci-n-La-apolog-a-del-delito-a-trav-s-del-lente-cinematogr-fico-1916-1955-Rodriguez-Romer.jpg",
+    "precio": 0
+  },
+  {
+    "id": 155,
+    "titulo": "Deolinda Correa",
+    "autor": "Rodríguez Gil, Francisco Eduardo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Investigación histórica y cultural que rescata el mito, la devoción popular y el impacto social de la Difunta Correa.",
+    "imagen_url": "https://i.ibb.co/LdzdBWtV/Deolinda-Correa-Francisco-Eduardo-Rodr-guez-Gil-C-mara-de-Diputados-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 156,
+    "titulo": "Digo tu nombre calingasta",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía territorial que celebra con fervor lírico el paisaje, la gente y la historia de un valle emblemático.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 157,
+    "titulo": "El corazón encendido",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Obra lírica centrada en la pasión, la entrega y la vitalidad emocional mediante imágenes ardientes y sentidas.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 158,
+    "titulo": "El deber de no discriminación e igualdad de teatro como prensa para un trabajo docente. Análisis crítico del despido discriminatorio.",
+    "autor": "Paz Trigo, Adriana Luján",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo jurídico-social que fundamenta la equidad laboral y analiza casos de vulneración de derechos docentes.",
+    "imagen_url": "https://i.ibb.co/MDbtSfz6/El-deber-de-no-discriminaci-n-e-igualdad-de-trato-como-premisa-para-un-trabajo-decente-An-lisis-cr-t.jpg",
+    "precio": 0
+  },
+  {
+    "id": 159,
+    "titulo": "El sueño de la calandria",
+    "autor": "Rojas, Pablo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ficción o poesía que utiliza la fauna regional como símbolo de libertad, anhelo e identidad territorial.",
+    "imagen_url": "https://i.ibb.co/xKyTsJJr/El-sue-o-de-la-Calandria-Rojas-Pablo-Fondo-Editorial-C-mara-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 160,
+    "titulo": "En vilo",
+    "autor": "Muñoz, Paolo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Narrativa de suspenso que explora tensiones urbanas, incertidumbre y dilemas morales en un ritmo dinámico.",
+    "imagen_url": "https://i.ibb.co/5W7XmZ2M/en-vilo-Paolo-Mu-oz-Ed-2022-San-Juan-Escribe.jpg",
+    "precio": 0
+  },
+  {
+    "id": 161,
+    "titulo": "Esta novela",
+    "autor": "Godoy Jésica Johana",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Obra de ficción experimental que reflexiona sobre la construcción del relato, la memoria y la propia escritura.",
+    "imagen_url": "https://i.ibb.co/qYMJT4HC/Esta-novela-Godoy-J-sica-Johana-Fondo-Editorial-C-mara-de-Diputados-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 162,
+    "titulo": "Estas coplas de mujer",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía popular y tradicional que recupera la sabiduría, el canto y las luchas de las mujeres cuyanas.",
+    "imagen_url": "https://i.ibb.co/pB3VQ2b5/Estas-coplas-de-mujer-Zuccoli-Fidanza-Ofelia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 163,
+    "titulo": "Imposición de la vida",
+    "autor": "Anselmi, Mario",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo o narrativa que aborda el peso de la existencia, el azar y la voluntad frente a contextos determinantes.",
+    "imagen_url": "https://i.ibb.co/W4y2BSfY/Imposici-n-de-la-Vida-Mario-Anselmi-San-Juan-Escribe-Ed-2022.jpg",
+    "precio": 0
+  },
+  {
+    "id": 164,
+    "titulo": "La joroba",
+    "autor": "Saquilán Ruffa, Gabriel Octavio",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ficción crítica que utiliza la deformidad o etiqueta social como eje para diseccionar prejuicios y exclusión.",
+    "imagen_url": "https://i.ibb.co/GQJwWdgN/La-joraba-Saquil-n-Ruffa-Gabriel.jpg",
+    "precio": 0
+  },
+  {
+    "id": 165,
+    "titulo": "Lagar de mi sangre",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía de fuerte arraigo que vincula familia, trabajo en la viña e identidad regional con lenguaje visceral.",
+    "imagen_url": "https://i.ibb.co/xSYRzM8M/Lagar-de-mi-sangre-Zuccoli-Fidanza-Ofelia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 166,
+    "titulo": "Lecho de tierra",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Obra lírica meditativa sobre la mortalidad, la comunión con lo telúrico y el ciclo eterno de la naturaleza.",
+    "imagen_url": "https://i.ibb.co/TxWcPdgj/Lecho-de-Tierra-Zuccoli-Fidanza-Ofelia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 167,
+    "titulo": "Llegando al camino",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía o narrativa de iniciación que retrata el descubrimiento personal, el viaje interno y la madurez literaria.",
+    "imagen_url": "https://i.ibb.co/1Gn6ZVtn/Llegando-al-camino-Zuccoli-Fidanza-Ofelia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 168,
+    "titulo": "Lo que me pasó en el sismo",
+    "autor": "Rodríguez, Aixa Inés [et.al]",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Testimonio polifónico sobre resiliencia, solidaridad y reconstrucción tras catástrofes naturales en la provincia.",
+    "imagen_url": "https://i.ibb.co/LDCBtbRr/Lo-que-me-pas-en-el-sismo-C-mara-de-Diputados-de-San-juan-Ed.jpg",
+    "precio": 0
+  },
+  {
+    "id": 169,
+    "titulo": "Los sueños y las urgencias",
+    "autor": "García Binaghi, Nicolás",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo de actualidad que contrasta ideales sociales con imperativos económicos y políticos en el mundo globalizado.",
+    "imagen_url": "https://i.ibb.co/tpLS08CJ/Los-sue-os-y-las-urgencias-Binaghi-Nicol-s-Garc-a-Fondo-Editorial-C-mara-de-Diputados-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 170,
+    "titulo": "Más que yuyos",
+    "autor": "Toro, María Gabriela [et.al]",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Rescate cultural de flora regional y saberes populares vinculados al ambiente árido sanjuanino.",
+    "imagen_url": "https://i.ibb.co/mxNftLQ/M-s-que-yuyos-Los-rescatadores-Legislatura-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 171,
+    "titulo": "Ofelia Zúccoli tinto de finanza",
+    "autor": "Mariel Erostarbe, Juan",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Investigación sobre la obra de Zúccoli Fidanza, destacando valor estético, mística territorial y herencia vinícola.",
+    "imagen_url": "https://i.ibb.co/VcRjmRYw/Ofelia-Zuccoli-Tinto-de-Fidanza-Derroteros-esteticos-misticos.jpg",
+    "precio": 0
+  },
+  {
+    "id": 172,
+    "titulo": "Pasión de la Viña",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Canto lírico dedicado al trabajo agrícola, el milagro del vino y el sacrificio humano en el desierto irrigado.",
+    "imagen_url": "https://i.ibb.co/tgqrgyf/Pasion-de-la-vi-a-Zuccoli-Fidanza-Ofelia-1.jpg",
+    "precio": 0
+  },
+  {
+    "id": 173,
+    "titulo": "perfume de gol",
+    "autor": "Zama, Pablo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Crónica o ficción futbolística que retrata el ritual, la memoria y la emoción popular ligada al deporte.",
+    "imagen_url": "https://i.ibb.co/zTX6zhw3/Perfume-de-gol-Zama-Pablo-Fondo-Editorial-C-mara-de-Diputados-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 174,
+    "titulo": "Política educativa de emergencia sanitaria por Covid19 en nivel primario de entornos rurales. Un estudio de caso en el departamento de Zonda.",
+    "autor": "Arguello Gonzalez, Diego Gerardo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Estudio de campo sobre brechas digitales, exclusión y estrategias de continuidad pedagógica en pandemia.",
+    "imagen_url": "https://i.ibb.co/WvV1GZ6B/Pol-tica-educativa-de-emergencia-sanitaria-por-Covid-19-en-nivel-primario-de-entornos-rurales-Un-est.png",
+    "precio": 0
+  },
+  {
+    "id": 175,
+    "titulo": "Ráfagas de letras: antología de San Juan",
+    "autor": "Ruiz, Nélida  González, Rosa B.",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Compendio de variados géneros y estilos que refleja la vitalidad literaria contemporánea de la provincia.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 176,
+    "titulo": "Recuerdos de provincia",
+    "autor": "Sarmiento, Domingo Faustino",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Edición facsimilar o comentada de la obra fundacional sarmientina para lectura histórica y literaria escolar.",
+    "imagen_url": "https://i.ibb.co/4ZLX7YyW/Recuerdos-de-provincia-Sarmiento-Domingo-Faustino-Legislatura.jpg",
+    "precio": 0
+  },
+  {
+    "id": 177,
+    "titulo": "Rostro de tierra",
+    "autor": "Zúccoli Fidanza, Ofelia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía de introspección profunda que humaniza el suelo natal y busca raíces en la geografía cuyana.",
+    "imagen_url": "https://i.ibb.co/sJbz2xb7/Rostro-de-tierra-Zuccoli-Fidanza-Ofelia.jpg",
+    "precio": 0
+  },
+  {
+    "id": 178,
+    "titulo": "Secreto de sumario",
+    "autor": "Lucero Barud, Nora Adriana",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ficción criminal que utiliza el procedimiento jurídico como estructura para explorar la verdad y el poder.",
+    "imagen_url": "https://i.ibb.co/k2cvBhSB/Secreto-de-sumario-Lucero-Barud-Nora-Adriana-Fondo-Editorial-C-mara-de-Diputados-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 179,
+    "titulo": "Brasero: poemario de la ceniza",
+    "autor": "Araya, Federico",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Colección lírica sugestiva que trabaja pérdida, ceniza y renacimiento mediante un lenguaje concentrado y moderno.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 180,
+    "titulo": "El duende que perdió el nombre",
+    "autor": "Amarfil, Stella Maris",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Fábula o poesía infantil que aborda la importancia de la identidad, el lenguaje y el sentido de pertenencia.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 181,
+    "titulo": "Memorias de un Jazmin",
+    "autor": "Zabaleta, Liliana Elizabeth",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Obra de tono intimista que utiliza la fragancia y el paso del tiempo como disparadores de recuerdos afectivos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 182,
+    "titulo": "Recuerdos del alma",
+    "autor": "",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Compilación diversa de vivencias, reflexiones y poemas que celebran la memoria emocional personal y colectiva.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 183,
+    "titulo": "Jazz y Yo",
+    "autor": "Pontoriero, Rosa",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo autobiográfico que vincula vida, arte y pasión musical en un relato rítmico y envolvente.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 184,
+    "titulo": "En ristre",
+    "autor": "Orellano, Germán",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía de combate o reflexión activa que utiliza la palabra como arma crítica ante injusticias sociales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 185,
+    "titulo": "Compilado relatos breves : medianera & dulce de naranja",
+    "autor": "De Cara, Ana SolCarbajo Mereles, Camila",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Antología de ficciones cortas que capturan momentos de ruptura, conexión y cotidianeidad luminosa.",
+    "imagen_url": "https://i.ibb.co/LdM2sLSz/Compilado-relatos-breves-Medianera-Dulce-de-naranja-Victoria-de-Cara-Ana-Sol-y-Carbajo-Mereles-Camil.jpg",
+    "precio": 0
+  },
+  {
+    "id": 186,
+    "titulo": "Huaco : los pájaros de la noche",
+    "autor": "Páz, Sebastian Alberto",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Leyendas y crónicas que exploran lo fantástico, lo nocturno y lo místico en el imaginario del norte sanjuanino.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 187,
+    "titulo": "Grabado de otra moneda",
+    "autor": "Aballay Ortuño, Nicolás",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo experimental o narrativa que propone lecturas laterales sobre economía, valor y relaciones humanas.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 188,
+    "titulo": "Infiernos menores",
+    "autor": "Martinez, Ivan José",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Colección de relatos oscuros o realistas que exploran dramas íntimos, culpas y la soledad en la vida moderna.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 189,
+    "titulo": "La visión de lamujer según el hermano de Procesa Sarmiento",
+    "autor": "Godoy, Jésica Johana",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Investigación histórica que revisita el pensamiento de género en el círculo intelectual sarmientino.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 190,
+    "titulo": "Más allá del pedregal",
+    "autor": "De Min Silva, Fabrizio",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Narrativa de resiliencia que se sitúa en entornos áridos para hablar de esperanza, cambio y superación vital.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 191,
+    "titulo": "Sanjuentos : para la escuela",
+    "autor": "Cabello Lázzaro, Miguel",
+    "editorial": "El Autor",
+    "descripcion": "Material pedagógico que adapta cuentos y saberes locales para el fortalecimiento de la identidad sanjuanina en el aula.",
+    "imagen_url": "https://i.ibb.co/8nSygt4T/Sanjuentos-para-la-escuela-Cabello-L-zzaro-Miguel-El-Autor.jpg",
+    "precio": 0
+  },
+  {
+    "id": 192,
+    "titulo": "They/Them y sus variantes : una investigación lingüística",
+    "autor": "Cangialosi, Franco Darío",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Estudio de sociolingüística que analiza la evolución del lenguaje no binario y su reconocimiento social actual.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 193,
+    "titulo": "Compilación: San Juan escribe 2023. Poesía Crucigrama/Laberinto de mi alma",
+    "autor": "Las Peñas, Tomás Pablo",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Poesía de forma lúdica y experimental que invita al lector a descifrar emociones y caminos internos.",
+    "imagen_url": "https://i.ibb.co/FbV4KChb/Compilaci-n-San-Juan-Escribe-Poes-a-T-Las-Pe-as-y-T-Signorato-C-mara-de-Diputados-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 194,
+    "titulo": "Relatos y testimonios de veteranos de guerra sanjuaninos",
+    "autor": "Rodríguez, Fernando M.",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Obra coral que recupera la memoria de Malvinas a través de experiencias directas y necesarias de sus protagonistas regionales.",
+    "imagen_url": "https://i.ibb.co/kVjN08dV/Relatos-y-testimonios-de-veteranos-de-guerra-Sanjuanina-Rodrigu.jpg",
+    "precio": 0
+  },
+  {
+    "id": 195,
+    "titulo": "Cuentos para descubrir el universo",
+    "autor": "Cáceres, Cecilia Inés",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Literatura de divulgación astronómica para niños, que utiliza el relato para despertar asombro por el cosmos.",
+    "imagen_url": "https://i.ibb.co/Y4YrJG2h/Cuentos-para-discover-el-universo-C-ceres-Cecilia-Ines.jpg",
+    "precio": 0
+  },
+  {
+    "id": 196,
+    "titulo": "Todas esas voces silenciadas",
+    "autor": "Martin Ortíz, Evangelina Ana",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo que rescata historias omitidas y da visibilidad a sujetos marginados por los discursos hegemónicos locales.",
+    "imagen_url": "https://i.ibb.co/whyKNGFt/Todas-esas-voces-silenciadas-Mart-n-Evangelina.jpg",
+    "precio": 0
+  },
+  {
+    "id": 197,
+    "titulo": "Compilación San Juan escribe El sombrero olvidado/Migrantes",
+    "autor": "Gallardo, MarceloSavastano, María Patricia",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Cuentos y relatos que abordan el desarraigo, la búsqueda de horizontes y el choque cultural en la migración.",
+    "imagen_url": "https://i.ibb.co/rKCQfLL1/Compilaci-n-San-Juan-Escribe-El-sombrero-olvidado-Migrantes-Gallardo-Marcelo-y-Savastano-Mar-a-Patri.jpg",
+    "precio": 0
+  },
+  {
+    "id": 198,
+    "titulo": "Senderos del buscador empecinado: un recorrido por la poética de las búsquedas de Jorge Leonidas Escudero",
+    "autor": "Trombino, Ricardo Luis",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Ensayo crítico que profundiza en los temas, obsesiones y estética singular del gran poeta sanjuanino.",
+    "imagen_url": "https://i.ibb.co/SwnXLMBb/Senderos-del-buscador-empecinado-Trombino-Ricardo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 199,
+    "titulo": "Sarmiento : consultor político",
+    "autor": "Mariconda, Federica",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Investigación que revalora las estrategias de comunicación y formación de opinión pública del prócer sanjuanino.",
+    "imagen_url": "https://i.ibb.co/Gvc4Qt5J/Sarmiento-consultor-pol-tico-Mariconda-Federica.jpg",
+    "precio": 0
+  },
+  {
+    "id": 200,
+    "titulo": "Rumbo al país donde : antología poética de Jorge Leonidas Escudero",
+    "autor": "Trombino, Ricardo Luis",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Edición crítica que reúne lo más representativo de la voz escuderiana para difusión internacional y local.",
+    "imagen_url": "https://i.ibb.co/4HDRkQW/Rumbo-al-pais-donde-Trombino-Ricardo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 201,
+    "titulo": "Bertha Pappenheim : entre los estudios de género y el psicoanálisis freudiano.",
+    "autor": "Varese Cantoni, Daniela Inés",
+    "editorial": "Fondo Editorial Cámara de Diputados de San Juan",
+    "descripcion": "Estudio interdisciplinario sobre el caso Anna O. y la emergencia de agendas de género y derechos humanos.",
+    "imagen_url": "https://i.ibb.co/wZ5Twn92/Bertha-Pappenheim-Varese-Cantoni-Daniela.jpg",
+    "precio": 0
+  },
+  {
+    "id": 202,
+    "titulo": "Esqueleto lírico: poemas que sangran emociones",
+    "autor": "Las Peñas, Tomás Pablo",
+    "editorial": "El Autor",
+    "descripcion": "Poesía descarnada de tono existencialista que desnuda el sentimiento ante la propia finitud del ser.",
+    "imagen_url": "https://i.ibb.co/8DvRZTQc/Esqueleto-L-rico-Tom-s-Pablo-Las-Pe-as-El-Vi-atero.jpg",
+    "precio": 0
+  },
+  {
+    "id": 203,
+    "titulo": "Lágrimas.",
+    "autor": "Las Peñas, Tomás Pablo",
+    "editorial": "Tinta Libre",
+    "descripcion": "Breve poemario centrado en el duelo, la melancolía y el alivio que otorga la expresión literaria del dolor.",
+    "imagen_url": "https://i.ibb.co/qFkZvNPp/L-grimas-Tom-s-Pablo-Las-Pe-as-Tinta-Libre.jpg",
+    "precio": 0
+  },
+  {
+    "id": 204,
+    "titulo": "Suspiros de un aspirante",
+    "autor": "Las Peñas, Tomás Pablo",
+    "editorial": "El Autor",
+    "descripcion": "Obra poética que retrata la mirada asombrada, el deseo y la búsqueda de sentido de quien inicia un camino creativo.",
+    "imagen_url": "https://i.ibb.co/dw8f2CC0/Suspiros-de-un-aspirante-Tom-s-Pablo-Las-Pe-as-El-Vi-atero.jpg",
+    "precio": 0
+  },
+  {
+    "id": 205,
+    "titulo": "Antología poética : los versos al taller.",
+    "autor": "Bortot, Geraldine...[et.al]",
+    "editorial": "",
+    "descripcion": "Fruto del trabajo colectivo que revela procesos, diálogos y el nacimiento de voces líricas en espacios de formación.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 206,
+    "titulo": "Crucigrama",
+    "autor": "Las Peñas, Tomás Pablo",
+    "editorial": "El Autor",
+    "descripcion": "Ficción o poesía estructurada como reto cognitivo y sensorial, jugando con la intertextualidad y el azar.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 207,
+    "titulo": "Nutrición en vivo.",
+    "autor": "Álvaro de Manzano, Olga",
+    "editorial": "Nutricion en Vida",
+    "descripcion": "Información práctica sobre alimentación saludable, prevención y bienestar adaptada a contextos actuales.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 208,
+    "titulo": "Me pinta poesia : pinturas y rimas para niños artistas.",
+    "autor": "Alcoba, Mariel",
+    "editorial": "El Autor",
+    "descripcion": "Libro-álbum que promueve la creatividad infantil a través de la fusión armoniosa de imagen y verso.",
+    "imagen_url": "https://i.ibb.co/5WJcKk5q/Me-pinta-poes-a-pinturas-y-rimas-para-ni-os-artistas-Alcoba.jpg",
+    "precio": 0
+  },
+  {
+    "id": 209,
+    "titulo": "Con firma de escritores : Antología sanjuanina vol. II",
+    "autor": "Ávila, Luis (coord.)",
+    "editorial": "Abdulah",
+    "descripcion": "Obra que reúne una rica producción de autores locales, reflejando tendencias contemporáneas regionales.",
+    "imagen_url": "https://i.ibb.co/1tvcGq0V/Con-firma-de-escritores-Antolog-a-sanjuanina-Abdulah.jpg",
+    "precio": 0
+  },
+  {
+    "id": 210,
+    "titulo": "Confesiones de mujer",
+    "autor": "Simone, Graciela",
+    "editorial": "Abdulah",
+    "descripcion": "Testimonio biográfico o de ficción reflexiva que indaga en roles de género, domesticidad y autonomía personal.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 211,
+    "titulo": "Antonio Simone : la historia de su vida.",
+    "autor": "Simone, Graciela",
+    "editorial": "DIGIT.AR",
+    "descripcion": "Perfil biográfico familiar que rescata hitos, sacrificio y memoria de un inmigrante, contribuyendo a la historia local.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 212,
+    "titulo": "Antología Internacional . Una carta",
+    "autor": "Cao, Juliera...[et.al]",
+    "editorial": "Letras Misteriosas",
+    "descripcion": "Proyecto epistolar que conecta sensibilidades diversas de distintos países a través de la palabra escrita directa.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 213,
+    "titulo": "Anécdotas de la infancia.",
+    "autor": "Simone, Graciela",
+    "editorial": "Letras Misteriosas",
+    "descripcion": "Relatos nostálgicos que recrean mundos perdidos, juegos y el aprendizaje temprano en una realidad pasada.",
+    "imagen_url": "https://i.ibb.co/fVTYRPKC/An-cdotas-de-la-Infancia-Graciela-Simone.jpg",
+    "precio": 0
+  },
+  {
+    "id": 214,
+    "titulo": "Bitácora de lectura : para ratones de biblioteca",
+    "autor": "Ponce, Virginia Fátima",
+    "editorial": "El Autor",
+    "descripcion": "Material interactivo que guía a los lectores en su propio camino de descubrimiento literario y reflexión personal.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 215,
+    "titulo": "El pariente",
+    "autor": "Poli Almiroón (Juan Martín Almirón)",
+    "editorial": "Abdulah",
+    "descripcion": "Ficción que explora vínculos familiares, herencias simbólicas y tensiones afectivas en entornos cotidianos.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 216,
+    "titulo": "Raíces del Cuyum",
+    "autor": "Olmedo, Álvaro",
+    "editorial": "El Autor",
+    "descripcion": "Ensayo que indaga en los orígenes étnicos y culturales de Cuyo, revalorando la identidad ancestral del territorio.",
+    "imagen_url": "https://i.ibb.co/KjcPBp67/Ra-ces-del-Cuyum-Olmedo-lvaro.jpg",
+    "precio": 0
+  },
+  {
+    "id": 217,
+    "titulo": "No matarás",
+    "autor": "Olmedo, Álvaro",
+    "editorial": "De los Cuatro Vientos",
+    "descripcion": "Ensayo ético-jurídico sobre la sacralidad de la vida, la justicia y la dignidad humana en sociedades complejas.",
+    "imagen_url": "https://i.ibb.co/XrwTWK5V/No-mataras-Alvaro-Olmedo.jpg",
+    "precio": 0
+  },
+  {
+    "id": 218,
+    "titulo": "Oscuria: Ecos de tierra condenadas",
+    "autor": "Karam Alba, Leonardo Ezequiel",
+    "editorial": "El Autor",
+    "descripcion": "Ficción de tono gótico o distópico que utiliza paisajes áridos sanjuaninos como escenario de misterio y fatalidad.",
+    "imagen_url": "https://i.ibb.co/S4cDjXT7/Oscuria-Karam.jpg",
+    "precio": 0
+  },
+  {
+    "id": 219,
+    "titulo": "El segundo país",
+    "autor": "Lucero Barud, Nora Adriana",
+    "editorial": "El Autor",
+    "descripcion": "Novela que explora la dualidad de identidades, el exilio interno y la búsqueda de pertenencia en mundos cruzados.",
+    "imagen_url": "https://i.ibb.co/Kxgcx6JG/El-segundo-pais-Nora-Lucero.jpg",
+    "precio": 0
+  },
+  {
+    "id": 220,
+    "titulo": "Diafana",
+    "autor": "Natalia, Sol Peralta",
+    "editorial": "Abdulah",
+    "descripcion": "Obra lírica moderna que busca la claridad, la luz y la verdad existencial a través de la síntesis verbal y poética.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  },
+  {
+    "id": 221,
+    "titulo": "Mas que yuyos",
+    "autor": "Toro, Maria Gabriela",
+    "editorial": "Fondo Editorial",
+    "descripcion": "Investigación botánica y etnográfica que rescata el valor biológico y cultural de la vegetación nativa cuyana.",
+    "imagen_url": "https://i.ibb.co/mxNftLQ/M-s-que-yuyos-Los-rescatadores-Legislatura-de-San-Juan.jpg",
+    "precio": 0
+  },
+  {
+    "id": 222,
+    "titulo": "Rafagas de letras",
+    "autor": "Ruiz, Nelida",
+    "editorial": "Fondo Editorial",
+    "descripcion": "Expresiones literarias urgentes y directas que capturan el Zeitgeist contemporáneo con honestidad expresiva.",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/No_picture_available.png",
+    "precio": 0
+  }
+]
